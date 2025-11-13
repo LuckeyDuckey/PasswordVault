@@ -1,0 +1,2 @@
+class AppObject:
+    App = None
