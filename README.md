@@ -3,6 +3,8 @@
 
 A simple, secure, desktop password vault built with Python and Pygame, featuring a GUI built with a custom library called PYRA. It was designed for my personal use, it focuses on minimalism, functionality, and aesthetics.
 
+![alt text](https://github.com/LuckeyDuckey/PasswordVault/blob/main/Data/Banner.png)
+
 ## Usage
 
 To run the PasswordVault simply follow these steps (you’ll need Python 3.8 or newer):
